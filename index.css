@@ -17,7 +17,7 @@ div {
 
 }
 #first{
- bottom: 50px;
+display: inline;
 }
 
 /* Add a black background color to the top navigation */
@@ -27,16 +27,16 @@ div {
     border-style:groove;
     position: relative;
     padding: 15px;
-    padding-left: 460px;
+  
     
   }
   
   /* Style the links inside the navigation bar */
   .topnav a {
     color: white;
-    padding: 10px 30px;
+    padding: 2px 20px;
     text-decoration:dashed;
-    font-size: 22px;
+    font-size: 20px;
     border-style: groove;
     float: center;
     
